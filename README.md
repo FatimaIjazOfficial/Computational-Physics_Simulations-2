@@ -2,7 +2,7 @@
 
 This repository presents a collection of interactive physics and stochastic simulations implemented in C# (Windows Forms). Each simulation visualizes fundamental physical phenomena — combining mathematical modeling, numerical methods, and computer graphics.
 
-[Main Class File](https://github.com/FatimaIjazOfficial/Computational-Physics_Simulations-2/blob/master/CPS/Form1.cs)
+[Main Class File](https://github.com/FatimaIjazOfficial/Computational-Physics_Simulations-2/blob/master/CPS-2%20Lab/Form1.cs)
 
 All projects have been designed for educational and demonstrative purposes, helping learners visualize equations, understand physical laws, and explore stochastic and numerical techniques.
 
